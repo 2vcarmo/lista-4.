@@ -1,0 +1,9 @@
+var val1 = 60;
+var val2 = 60;
+
+if( val1 % val2 == 0){
+    console.log('São multiplos.');
+}
+
+else(val1 % val2 != 0) 
+    console.log('Não são multiplos.');
